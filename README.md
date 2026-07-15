@@ -10,16 +10,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> _Add your screenshots here after deployment_
-
-| Dashboard | Students | Reports |
-|-----------|----------|---------|
-| ![dashboard](#) | ![students](#) | ![reports](#) |
-
----
-
 ## ✨ Features
 
 ### 👥 Role-Based Access

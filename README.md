@@ -1,4 +1,4 @@
-# 🎓 Student Management System (SMS)
+﻿# 🎓 Student Management System (SMS)
 
 > A fully functional, role-based Student Management System built with **PHP**, **MySQL**, and **Vanilla JavaScript**. Designed to be cloned, rebranded, and deployed by any institution.
 
@@ -390,9 +390,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👨‍💻 Authors
 
-> _Add your name and team members here_
+> _Built by Samuel Bondo_
 
-- **Group One** — Web Development Project 2025
+- **Samuel Bondo — [github.com/samuelbondo](https://github.com/samuelbondo) — Web Development Project 2026
 
 ---
 
@@ -405,3 +405,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 *Built with ❤️ — Ready to deploy, ready to rebrand.*
+

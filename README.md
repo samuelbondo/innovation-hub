@@ -344,17 +344,6 @@ Download the template from **Manage Courses → 📄 CSV Template**.
 
 ---
 
-## 📝 GitHub Topics
-
-Add these to your repository for discoverability:
-
-```
-php mysql student-management-system web-application
-role-based-access-control admission-system dashboard
-vanilla-javascript crud-application xampp apache
-school-management academic-system open-source
-```
-
 ---
 
 ## 🤝 Contributing

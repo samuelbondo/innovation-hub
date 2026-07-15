@@ -209,7 +209,7 @@ http://localhost/group1/
 
 | Role | Email | Password |
 |------|-------|----------|
-| Admin | `sam@gmail.com` | `admin123` |
+| Admin | `sam@gmail.com` | `Yayeebondo1996!` |
 | Teacher | `alan.mensah@sms.edu` | `password` |
 | Student | `alice@example.com` | `password` |
 

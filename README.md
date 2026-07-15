@@ -393,6 +393,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 > _Built by Samuel Bondo_
 
 - **Samuel Bondo — [github.com/samuelbondo](https://github.com/samuelbondo) — Web Development Project 2026
+- samuelbondo917@gmail.com
+- WhatsApp: +250794047261 / +231775502758
 
 ---
 

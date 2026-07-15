@@ -1,0 +1,3 @@
+# Reset all rewrites inherited from parent .htaccess (production cPanel config)
+RewriteEngine Off
+Options -Indexes

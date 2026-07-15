@@ -1,0 +1,24 @@
+<?php
+// Copy this file to db.php and fill in your credentials
+define('DB_HOST', 'localhost');
+define('DB_USER', 'root');       // your MySQL username
+define('DB_PASS', '');           // your MySQL password
+define('DB_NAME', 'group1_db'); // your database name
+
+$pdo = new PDO(
+    'mysql:host=' . DB_HOST . ';dbname=' . DB_NAME . ';charset=utf8mb4',
+    DB_USER,
+    DB_PASS,
+    [
+        PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
+        PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
+    ]
+);
+
+if (PHP_SAPI !== 'cli') {
+    header('Content-Type: application/json');
+    header('Access-Control-Allow-Origin: *');
+    header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS');
+    header('Access-Control-Allow-Headers: Content-Type');
+    if (($_SERVER['REQUEST_METHOD'] ?? '') === 'OPTIONS') { http_response_code(204); exit; }
+}

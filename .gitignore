@@ -1,0 +1,29 @@
+# Database credentials — never commit the real db.php
+# php/db.php
+php/db.php
+
+# Uploaded files (user content — don't commit to repo)
+uploads/*.png
+uploads/*.jpg
+uploads/*.jpeg
+uploads/docs/*
+
+# Keep the uploads folders but not their contents
+!uploads/.gitkeep
+!uploads/docs/.gitkeep
+
+# Temp / dev files
+fix_trigger.sql
+dashboard_backup.php
+practice.html
+sam.html
+sam.png
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

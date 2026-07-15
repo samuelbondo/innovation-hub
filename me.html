@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Technology</title>
+<style>
+
+    div{
+        width: 30%;
+        display: inline-block;
+background-color: grey;
+
+    }
+    .grid-container{
+        display: grid;
+        grid-template-columns: 33% 33% 33%;
+background-color: blue;
+    }
+#sam{
+    position: absolute;
+    width: 200px;
+    background-color: pink;
+    left: 0px;
+    top: 150px;
+    height: 200px;
+}
+p{
+border: 2px solid red;
+border-radius: 5px;
+}
+p.one{
+border: 2px solid;
+border-color: red;
+}
+fieldset{
+margin-top: 350px;
+width: 20%;
+background-color: grey;
+}
+legend{
+text-align: center;
+color:crimson;
+font-size: 20px;
+}
+ul{
+    list-style-type:none;
+   
+}
+nav a{
+ text-decoration: none;
+ padding-right: 10px;
+
+}
+nav li{
+    display: inline;
+}
+</style>
+
+
+
+</head>
+<body>
+<!--
+    <div class="grid-container">
+<P>Hello, My name is Samuel Bondo</P>
+
+    </div>
+    <div> 
+
+       <h1>Hey, bro!</1> 
+    </div>
+-->
+<nav>
+<ul>
+
+    <li>  <a href="#">Home</a></li>
+      <li>  <a href="#">View</a></li>
+        <li>  <a href="#">Update</a></li>
+</ul>
+</nav>
+
+<div id="sam">
+This is a a 200 by 200 pixels pink box located
+150 pixels from the top of the web page.
+</div>
+<p> This is just an exercise. </p>
+<p class="one"> Coding is good </p>
+<fieldset> 
+<legend> Join our email list </legend>
+<label for="name">Name</label><br>
+<input type="text" id="name"><br><br>
+ <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email"><br><br>
+ <input type="submit" value="Submit">
+    <input type="reset" value="Reset">
+</fieldset>
+    <div class="video">
+<video controls width="400">
+    <source src="202.mp4" type="video/mp4">
+</video>
+
+    </div>
+</body>
+</html>

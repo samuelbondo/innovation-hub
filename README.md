@@ -139,10 +139,12 @@
 
 ## 🚀 Installation & Setup
 
+> This project works for both **local development** and **live production**. As long as your environment has PHP 8.x, MySQL 8.x, and Apache (or any compatible web server), it will run. Just configure `php/db.php` with your server's database credentials and you're good to go.
+
 ### Requirements
-- XAMPP (or any Apache + PHP 8.x + MySQL stack)
 - PHP 8.0+
 - MySQL 8.0+
+- Apache (XAMPP locally, or any shared/VPS hosting with Apache + PHP support)
 
 ### Steps
 

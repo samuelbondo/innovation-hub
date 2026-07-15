@@ -10,6 +10,43 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🌐 Public Pages
+| Home | About | Contact | Track Admission |
+|------|-------|---------|----------------|
+| ![Home](screenshots/home-page.png) | ![About](screenshots/about-page.png) | ![Contact](screenshots/contact-page.png) | ![Track Admission](screenshots/track-admission-page.png) |
+
+### 🔐 Auth
+| Login | Application |
+|-------|-------------|
+| ![Login](screenshots/login.png) | ![Application](screenshots/application-page.png) |
+
+### 🛡️ Admin
+| Dashboard | Students | Student Detail |
+|-----------|----------|----------------|
+| ![Dashboard](screenshots/admin-dashboard.png) | ![Students](screenshots/admin-student.png) | ![Student Detail](screenshots/admin-student-detail.png) |
+
+| Departments | Dept Detail | Courses |
+|-------------|-------------|--------|
+| ![Departments](screenshots/admin-add-dept.png) | ![Dept Detail](screenshots/admin-dept-detail.png) | ![Courses](screenshots/admin-courses-management-and-enrollment%20.png) |
+
+| Users | Reports | Settings |
+|-------|---------|----------|
+| ![Users](screenshots/admin-user-management.png) | ![Reports](screenshots/admin-report.png) | ![Settings](screenshots/global-setting.png) |
+
+### 🎓 Student
+| Dashboard | Enroll |
+|-----------|--------|
+| ![Student Dashboard](screenshots/student-dashboard.png) | ![Enroll](screenshots/student-enroll-page.png) |
+
+### 👨‍🏫 Teacher
+| Dashboard | Classes | Students | Grades |
+|-----------|---------|----------|--------|
+| ![Teacher Dashboard](screenshots/teacher-dashboard.png) | ![Classes](screenshots/teacher-classes.png) | ![Students](screenshots/teacher-student.png) | ![Grades](screenshots/teacher-grade.png) |
+
+---
+
 ## ✨ Features
 
 ### 👥 Role-Based Access
